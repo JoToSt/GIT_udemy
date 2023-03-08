@@ -8,3 +8,14 @@ Movies:
 	- Predator
 	- Conan the Barbarian
 	- True Lies
+
+Brad Pitt, właściwie William Bradley Pitt   
+amerykański
+Data i miejsce urodzenia: 18 grudnia 1963 
+Data i miejsce urodzenia: Shawnee, Oklahoma, Stany Zjednoczone
+Movies:
+         - Burn After Reading
+         - Interview With The Vampire
+         - Once Upon A Time... In Hollywood
+         - Inglourious Basterds
+         - Fight Club
