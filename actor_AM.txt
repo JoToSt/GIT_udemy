@@ -1,0 +1,10 @@
+Arnold Schwarzenegger 
+austriacko-amerykański
+miejsce urodzenia:    30 lipca 1947
+Dataurodzenia: Thal, Austria
+Movies:
+	- The Terminator
+	- Total Recall
+	- Predator
+	- Conan the Barbarian
+	- True Lies
