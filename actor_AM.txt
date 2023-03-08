@@ -19,3 +19,14 @@ Movies:
          - Once Upon A Time... In Hollywood
          - Inglourious Basterds
          - Fight Club
+
+Bruce Willis, właśc. Walter Bruce Willis
+amerykański 
+Data urodzenia: 19 marca 1955 
+miejsce urodzenia:  Idar-Oberstein, Niemcy
+Movies:
+	- Die Hard
+	- Pulp Fiction
+	- Sixth Sense
+	- Twelve Monkeys
+	- The Fifth Element
